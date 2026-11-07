@@ -1,16 +1,20 @@
-## Hi there 👋
+Hello, I'm Sneha! 👋
 
-<!--
-**sneha-tiwari-dev/sneha-tiwari-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Engineering student
 
-Here are some ideas to get you started:
+🌱 Currently learning programming from scratch.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Interested in Software Engineering, Data Structures and Algorithms, and building projects.
+
+🎯 My goal is to become a Software Engineer and contribute to meaningful projects.
+
+My Learning Journey
+
+- Programming fundamentals
+- Git and GitHub
+- Data Structures and Algorithms
+- Software development projects
+
+Connect with me
+
+- GitHub: "sneha-tiwari-dev" (https://github.com/sneha-tiwari-dev)
